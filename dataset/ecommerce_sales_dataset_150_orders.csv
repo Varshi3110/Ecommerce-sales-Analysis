@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Discount_Percent,Payment_Method,City,Order_Status
+ORD00001,2026-09-28,CUST005,Arjun Nair,Bookshelf,Furniture,5,5900,0,Net Banking,Hyderabad,Returned
+ORD00002,2026-05-17,CUST047,Meera Kumar,Smartphone,Electronics,2,22900,10,Debit Card,Bengaluru,Delivered
+ORD00003,2026-05-15,CUST028,Kavya Reddy,Headphones,Electronics,4,2500,20,Credit Card,Bengaluru,Returned
+ORD00004,2026-03-20,CUST020,Ananya Singh,Desk Lamp,Home Appliances,2,1200,5,Credit Card,Hyderabad,Cancelled
+ORD00005,2026-06-07,CUST021,Rahul Nair,Running Shoes,Fashion,4,2900,0,Credit Card,Bengaluru,Delivered
+ORD00006,2026-09-30,CUST047,Meera Kumar,Running Shoes,Fashion,5,3400,10,Credit Card,Jaipur,Cancelled
+ORD00007,2026-04-19,CUST011,Kavya Gupta,Office Chair,Furniture,2,7600,15,Credit Card,Pune,Shipped
+ORD00008,2026-08-20,CUST043,Rohan Sharma,Mixer Grinder,Home Appliances,3,3400,0,Credit Card,Bengaluru,Delivered
+ORD00009,2026-01-04,CUST002,Sana Kumar,Coffee Maker,Home Appliances,2,4200,0,UPI,Mumbai,Delivered
+ORD00010,2026-05-02,CUST058,Aditi Reddy,Laptop,Electronics,1,59100,0,Cash on Delivery,Mumbai,Cancelled
+ORD00011,2026-08-31,CUST009,Sita Nair,Air Fryer,Home Appliances,2,7400,0,Cash on Delivery,Kolkata,Delivered
+ORD00012,2026-07-30,CUST007,Aarav Reddy,Smartphone,Electronics,1,22800,5,UPI,Bengaluru,Delivered
+ORD00013,2026-05-08,CUST026,Vikram Nair,Air Fryer,Home Appliances,3,6600,0,Net Banking,Jaipur,Delivered
+ORD00014,2026-02-08,CUST028,Kavya Reddy,Headphones,Electronics,1,2400,5,Net Banking,Bengaluru,Delivered
+ORD00015,2026-05-02,CUST042,Meera Sharma,Backpack,Fashion,4,1900,0,Cash on Delivery,Jaipur,Delivered
+ORD00016,2026-01-02,CUST056,Diya Gupta,Bookshelf,Furniture,1,6400,20,Debit Card,Jaipur,Delivered
+ORD00017,2026-10-12,CUST028,Kavya Reddy,Air Fryer,Home Appliances,5,7400,10,Cash on Delivery,Chennai,Delivered
+ORD00018,2026-10-05,CUST019,Arjun Rao,Smartwatch,Electronics,2,7100,0,Debit Card,Hyderabad,Delivered
+ORD00019,2026-03-22,CUST038,Nikhil Kumar,Running Shoes,Fashion,3,3200,0,Net Banking,Bengaluru,Delivered
+ORD00020,2026-07-26,CUST005,Arjun Nair,Coffee Maker,Home Appliances,3,3900,0,Net Banking,Mumbai,Cancelled
+ORD00021,2026-10-26,CUST039,Ishaan Das,Laptop,Electronics,1,56700,5,Debit Card,Pune,Delivered
+ORD00022,2026-03-09,CUST043,Rohan Sharma,Air Fryer,Home Appliances,1,6600,10,Debit Card,Jaipur,Delivered
+ORD00023,2026-10-16,CUST060,Kiran Nair,Water Bottle,Accessories,1,700,20,UPI,Mumbai,Cancelled
+ORD00024,2026-05-06,CUST017,Diya Kumar,Headphones,Electronics,3,2700,5,Credit Card,Jaipur,Cancelled
+ORD00025,2026-09-28,CUST046,Kavya Nair,Office Chair,Furniture,5,7700,0,Net Banking,Pune,Returned
+ORD00026,2026-10-11,CUST007,Aarav Reddy,Headphones,Electronics,3,2400,0,Debit Card,Mumbai,Returned
+ORD00027,2026-09-16,CUST022,Sana Sharma,Smartwatch,Electronics,3,6700,5,UPI,Bengaluru,Returned
+ORD00028,2026-03-08,CUST028,Kavya Reddy,Desk Lamp,Home Appliances,1,1100,10,Debit Card,Chennai,Returned
+ORD00029,2026-02-27,CUST029,Aditi Kumar,Backpack,Fashion,2,1800,0,Credit Card,Hyderabad,Delivered
+ORD00030,2026-06-07,CUST038,Nikhil Kumar,Backpack,Fashion,1,1700,5,UPI,Delhi,Delivered
+ORD00031,2026-10-14,CUST044,Meera Rao,Smartwatch,Electronics,1,6700,15,Cash on Delivery,Chennai,Delivered
+ORD00032,2026-07-31,CUST056,Diya Gupta,Headphones,Electronics,3,2700,0,Debit Card,Kolkata,Returned
+ORD00033,2026-02-25,CUST056,Diya Gupta,Air Fryer,Home Appliances,1,7200,5,UPI,Jaipur,Delivered
+ORD00034,2026-04-27,CUST013,Neha Nair,Desk Lamp,Home Appliances,1,1300,0,Credit Card,Kolkata,Delivered
+ORD00035,2026-06-29,CUST018,Meera Reddy,Desk Lamp,Home Appliances,3,1100,10,Cash on Delivery,Delhi,Delivered
+ORD00036,2026-05-16,CUST008,Kavya Kumar,Office Chair,Furniture,4,7100,0,Net Banking,Kolkata,Delivered
+ORD00037,2026-09-19,CUST047,Meera Kumar,Water Bottle,Accessories,2,600,0,Net Banking,Mumbai,Delivered
+ORD00038,2026-10-03,CUST003,Rohan Patel,Air Fryer,Home Appliances,2,6700,10,Credit Card,Delhi,Shipped
+ORD00039,2026-03-05,CUST005,Arjun Nair,Mixer Grinder,Home Appliances,2,3800,10,Debit Card,Pune,Returned
+ORD00040,2026-03-07,CUST027,Rahul Nair,Study Table,Furniture,1,8900,0,Cash on Delivery,Chennai,Cancelled
+ORD00041,2026-06-05,CUST037,Aman Patel,Office Chair,Furniture,3,7400,0,Cash on Delivery,Delhi,Shipped
+ORD00042,2026-03-28,CUST029,Aditi Kumar,Running Shoes,Fashion,2,3300,10,Debit Card,Delhi,Delivered
+ORD00043,2026-04-12,CUST053,Pooja Rao,Water Bottle,Accessories,1,600,0,UPI,Mumbai,Shipped
+ORD00044,2026-10-22,CUST040,Priya Iyer,Desk Lamp,Home Appliances,1,1200,0,Cash on Delivery,Jaipur,Shipped
+ORD00045,2026-02-24,CUST016,Meera Iyer,Headphones,Electronics,1,2500,10,Credit Card,Chennai,Returned
+ORD00046,2026-03-04,CUST034,Ishaan Singh,Running Shoes,Fashion,1,2900,5,Cash on Delivery,Delhi,Shipped
+ORD00047,2026-10-08,CUST040,Priya Iyer,Desk Lamp,Home Appliances,2,1200,5,Credit Card,Jaipur,Shipped
+ORD00048,2026-09-24,CUST017,Diya Kumar,Water Bottle,Accessories,2,600,5,Credit Card,Pune,Shipped
+ORD00049,2026-06-13,CUST005,Arjun Nair,Air Fryer,Home Appliances,1,6600,15,UPI,Chennai,Delivered
+ORD00050,2026-02-02,CUST015,Ishaan Rao,Bookshelf,Furniture,2,6200,5,Debit Card,Jaipur,Shipped
+ORD00051,2026-10-27,CUST004,Ananya Gupta,Smartwatch,Electronics,1,6900,15,UPI,Kolkata,Shipped
+ORD00052,2026-08-03,CUST001,Ananya Sharma,Study Table,Furniture,1,8700,5,Net Banking,Mumbai,Shipped
+ORD00053,2026-06-22,CUST015,Ishaan Rao,Office Chair,Furniture,1,7400,10,Cash on Delivery,Chennai,Shipped
+ORD00054,2026-07-21,CUST059,Diya Patel,Headphones,Electronics,2,2700,5,UPI,Bengaluru,Returned
+ORD00055,2026-05-14,CUST028,Kavya Reddy,Headphones,Electronics,1,2600,5,Credit Card,Jaipur,Delivered
+ORD00056,2026-08-04,CUST022,Sana Sharma,Water Bottle,Accessories,1,700,0,UPI,Jaipur,Delivered
+ORD00057,2026-04-25,CUST048,Varun Rao,Backpack,Fashion,4,1600,10,UPI,Hyderabad,Delivered
+ORD00058,2026-03-06,CUST013,Neha Nair,Desk Lamp,Home Appliances,1,1100,5,UPI,Mumbai,Shipped
+ORD00059,2026-02-28,CUST045,Sana Reddy,Office Chair,Furniture,1,7900,10,Credit Card,Pune,Delivered
+ORD00060,2026-07-12,CUST038,Nikhil Kumar,Laptop,Electronics,2,59700,5,Credit Card,Bengaluru,Cancelled
+ORD00061,2026-06-04,CUST045,Sana Reddy,Desk Lamp,Home Appliances,1,1200,15,Net Banking,Bengaluru,Cancelled
+ORD00062,2026-07-09,CUST051,Rohan Gupta,Laptop,Electronics,1,54000,0,Debit Card,Hyderabad,Shipped
+ORD00063,2026-08-24,CUST053,Pooja Rao,Running Shoes,Fashion,4,3000,10,Cash on Delivery,Chennai,Returned
+ORD00064,2026-10-03,CUST034,Ishaan Singh,Mixer Grinder,Home Appliances,3,3300,10,Cash on Delivery,Kolkata,Returned
+ORD00065,2026-02-14,CUST038,Nikhil Kumar,Office Chair,Furniture,1,7300,0,Cash on Delivery,Mumbai,Shipped
+ORD00066,2026-09-11,CUST037,Aman Patel,Coffee Maker,Home Appliances,1,4300,15,Credit Card,Jaipur,Delivered
+ORD00067,2026-05-22,CUST023,Neha Gupta,Water Bottle,Accessories,1,600,5,Net Banking,Mumbai,Delivered
+ORD00068,2026-05-04,CUST016,Meera Iyer,Air Fryer,Home Appliances,2,6700,10,Cash on Delivery,Jaipur,Delivered
+ORD00069,2026-06-06,CUST006,Kiran Sharma,Office Chair,Furniture,2,7100,10,Debit Card,Jaipur,Cancelled
+ORD00070,2026-06-19,CUST034,Ishaan Singh,Study Table,Furniture,2,8900,5,Cash on Delivery,Pune,Delivered
+ORD00071,2026-03-03,CUST017,Diya Kumar,Smartwatch,Electronics,1,6100,10,Credit Card,Mumbai,Delivered
+ORD00072,2026-09-26,CUST048,Varun Rao,Running Shoes,Fashion,2,3100,5,UPI,Mumbai,Delivered
+ORD00073,2026-10-01,CUST015,Ishaan Rao,Study Table,Furniture,1,8500,0,UPI,Hyderabad,Cancelled
+ORD00074,2026-09-09,CUST019,Arjun Rao,Air Fryer,Home Appliances,2,7400,0,UPI,Pune,Shipped
+ORD00075,2026-05-10,CUST031,Rohan Reddy,Running Shoes,Fashion,4,3100,15,Cash on Delivery,Bengaluru,Delivered
+ORD00076,2026-01-28,CUST026,Vikram Nair,Running Shoes,Fashion,2,2900,0,Net Banking,Pune,Delivered
+ORD00077,2026-04-26,CUST016,Meera Iyer,Smartphone,Electronics,1,22400,10,Cash on Delivery,Jaipur,Shipped
+ORD00078,2026-10-19,CUST020,Ananya Singh,Desk Lamp,Home Appliances,1,1200,10,Net Banking,Bengaluru,Delivered
+ORD00079,2026-05-03,CUST041,Nikhil Kumar,Smartwatch,Electronics,1,6200,0,UPI,Chennai,Delivered
+ORD00080,2026-01-17,CUST027,Rahul Nair,Running Shoes,Fashion,1,3300,0,Debit Card,Jaipur,Delivered
+ORD00081,2026-10-29,CUST044,Meera Rao,Smartwatch,Electronics,3,7000,10,Credit Card,Kolkata,Delivered
+ORD00082,2026-03-14,CUST035,Rahul Kumar,Smartwatch,Electronics,4,6700,0,Credit Card,Pune,Cancelled
+ORD00083,2026-03-05,CUST048,Varun Rao,Desk Lamp,Home Appliances,1,1200,5,Debit Card,Kolkata,Delivered
+ORD00084,2026-01-21,CUST033,Neha Singh,Backpack,Fashion,1,1800,15,Debit Card,Pune,Delivered
+ORD00085,2026-10-22,CUST006,Kiran Sharma,Smartwatch,Electronics,3,7100,5,UPI,Pune,Cancelled
+ORD00086,2026-08-15,CUST003,Rohan Patel,Water Bottle,Accessories,1,700,15,Credit Card,Kolkata,Returned
+ORD00087,2026-07-29,CUST053,Pooja Rao,Running Shoes,Fashion,1,3500,0,UPI,Chennai,Delivered
+ORD00088,2026-07-25,CUST027,Rahul Nair,Air Fryer,Home Appliances,2,6800,10,Net Banking,Hyderabad,Shipped
+ORD00089,2026-07-26,CUST006,Kiran Sharma,Study Table,Furniture,1,8600,15,UPI,Jaipur,Shipped
+ORD00090,2026-09-13,CUST004,Ananya Gupta,Smartwatch,Electronics,2,6500,10,UPI,Mumbai,Delivered
+ORD00091,2026-09-06,CUST036,Sana Reddy,Headphones,Electronics,1,2700,0,Net Banking,Mumbai,Returned
+ORD00092,2026-02-17,CUST011,Kavya Gupta,Office Chair,Furniture,2,7600,0,UPI,Jaipur,Delivered
+ORD00093,2026-05-30,CUST042,Meera Sharma,Desk Lamp,Home Appliances,4,1100,5,Debit Card,Kolkata,Shipped
+ORD00094,2026-04-08,CUST031,Rohan Reddy,Smartwatch,Electronics,1,6500,15,Net Banking,Chennai,Delivered
+ORD00095,2026-09-17,CUST018,Meera Reddy,Water Bottle,Accessories,1,700,0,UPI,Pune,Returned
+ORD00096,2026-09-08,CUST020,Ananya Singh,Desk Lamp,Home Appliances,5,1200,15,Cash on Delivery,Jaipur,Delivered
+ORD00097,2026-06-14,CUST022,Sana Sharma,Backpack,Fashion,1,1900,15,Credit Card,Kolkata,Delivered
+ORD00098,2026-08-31,CUST055,Rahul Kumar,Water Bottle,Accessories,1,600,10,Cash on Delivery,Kolkata,Returned
+ORD00099,2026-01-19,CUST051,Rohan Gupta,Desk Lamp,Home Appliances,1,1200,0,Net Banking,Delhi,Delivered
+ORD00100,2026-08-22,CUST056,Diya Gupta,Desk Lamp,Home Appliances,2,1100,0,Credit Card,Kolkata,Returned
+ORD00101,2026-06-23,CUST010,Aarav Gupta,Smartphone,Electronics,4,22000,10,Cash on Delivery,Bengaluru,Delivered
+ORD00102,2026-06-12,CUST055,Rahul Kumar,Mixer Grinder,Home Appliances,1,3700,10,Cash on Delivery,Hyderabad,Cancelled
+ORD00103,2026-04-27,CUST005,Arjun Nair,Smartwatch,Electronics,4,6700,10,Cash on Delivery,Bengaluru,Returned
+ORD00104,2026-06-03,CUST046,Kavya Nair,Desk Lamp,Home Appliances,1,1100,15,UPI,Delhi,Delivered
+ORD00105,2026-09-29,CUST019,Arjun Rao,Study Table,Furniture,1,8800,5,Credit Card,Chennai,Delivered
+ORD00106,2026-05-04,CUST006,Kiran Sharma,Coffee Maker,Home Appliances,2,4500,5,Net Banking,Chennai,Delivered
+ORD00107,2026-01-05,CUST030,Vikram Reddy,Mixer Grinder,Home Appliances,1,3300,15,Cash on Delivery,Pune,Returned
+ORD00108,2026-10-28,CUST035,Rahul Kumar,Headphones,Electronics,4,2300,0,Cash on Delivery,Pune,Shipped
+ORD00109,2026-09-05,CUST055,Rahul Kumar,Office Chair,Furniture,1,7100,0,Cash on Delivery,Delhi,Cancelled
+ORD00110,2026-07-22,CUST019,Arjun Rao,Air Fryer,Home Appliances,5,6600,0,Net Banking,Hyderabad,Cancelled
+ORD00111,2026-04-28,CUST048,Varun Rao,Running Shoes,Fashion,4,3400,10,Debit Card,Mumbai,Returned
+ORD00112,2026-03-12,CUST013,Neha Nair,Coffee Maker,Home Appliances,2,4000,10,UPI,Pune,Shipped
+ORD00113,2026-06-01,CUST003,Rohan Patel,Coffee Maker,Home Appliances,1,4100,0,Cash on Delivery,Chennai,Delivered
+ORD00114,2026-09-29,CUST009,Sita Nair,Water Bottle,Accessories,5,700,5,Debit Card,Chennai,Delivered
+ORD00115,2026-06-01,CUST059,Diya Patel,Desk Lamp,Home Appliances,4,1300,10,Debit Card,Bengaluru,Shipped
+ORD00116,2026-07-23,CUST005,Arjun Nair,Headphones,Electronics,1,2600,20,Net Banking,Delhi,Delivered
+ORD00117,2026-08-21,CUST051,Rohan Gupta,Bookshelf,Furniture,2,5500,5,Debit Card,Kolkata,Returned
+ORD00118,2026-10-15,CUST024,Ananya Rao,Smartphone,Electronics,1,22900,0,Net Banking,Mumbai,Returned
+ORD00119,2026-06-04,CUST005,Arjun Nair,Mixer Grinder,Home Appliances,4,3700,10,UPI,Chennai,Delivered
+ORD00120,2026-05-01,CUST003,Rohan Patel,Office Chair,Furniture,1,8200,15,Credit Card,Kolkata,Shipped
+ORD00121,2026-10-04,CUST024,Ananya Rao,Mixer Grinder,Home Appliances,2,3800,5,Credit Card,Kolkata,Returned
+ORD00122,2026-05-24,CUST007,Aarav Reddy,Desk Lamp,Home Appliances,1,1200,0,Debit Card,Mumbai,Shipped
+ORD00123,2026-07-08,CUST029,Aditi Kumar,Smartwatch,Electronics,1,6900,5,Debit Card,Hyderabad,Shipped
+ORD00124,2026-08-21,CUST018,Meera Reddy,Smartwatch,Electronics,4,7100,0,Credit Card,Hyderabad,Delivered
+ORD00125,2026-10-17,CUST051,Rohan Gupta,Study Table,Furniture,1,8600,0,Net Banking,Mumbai,Cancelled
+ORD00126,2026-03-17,CUST014,Sana Sharma,Desk Lamp,Home Appliances,1,1200,10,Net Banking,Hyderabad,Delivered
+ORD00127,2026-03-31,CUST055,Rahul Kumar,Headphones,Electronics,2,2700,0,UPI,Chennai,Delivered
+ORD00128,2026-01-09,CUST023,Neha Gupta,Water Bottle,Accessories,2,700,0,UPI,Chennai,Returned
+ORD00129,2026-08-18,CUST027,Rahul Nair,Backpack,Fashion,1,1600,10,Net Banking,Bengaluru,Shipped
+ORD00130,2026-09-24,CUST033,Neha Singh,Smartwatch,Electronics,1,7000,0,UPI,Hyderabad,Shipped
+ORD00131,2026-08-16,CUST055,Rahul Kumar,Bookshelf,Furniture,1,5900,0,UPI,Delhi,Cancelled
+ORD00132,2026-10-27,CUST010,Aarav Gupta,Smartphone,Electronics,2,20700,5,Debit Card,Kolkata,Cancelled
+ORD00133,2026-02-20,CUST034,Ishaan Singh,Office Chair,Furniture,2,7500,10,UPI,Mumbai,Shipped
+ORD00134,2026-07-24,CUST029,Aditi Kumar,Smartwatch,Electronics,3,6400,5,UPI,Delhi,Shipped
+ORD00135,2026-08-31,CUST021,Rahul Nair,Mixer Grinder,Home Appliances,4,3300,0,UPI,Bengaluru,Shipped
+ORD00136,2026-10-12,CUST007,Aarav Reddy,Air Fryer,Home Appliances,3,7100,0,Net Banking,Delhi,Returned
+ORD00137,2026-08-05,CUST008,Kavya Kumar,Bookshelf,Furniture,2,5900,15,UPI,Pune,Cancelled
+ORD00138,2026-03-21,CUST020,Ananya Singh,Study Table,Furniture,2,8400,10,Credit Card,Bengaluru,Delivered
+ORD00139,2026-10-21,CUST055,Rahul Kumar,Backpack,Fashion,3,1700,0,Cash on Delivery,Hyderabad,Cancelled
+ORD00140,2026-04-03,CUST060,Kiran Nair,Mixer Grinder,Home Appliances,1,3700,0,Debit Card,Delhi,Delivered
+ORD00141,2026-07-25,CUST001,Ananya Sharma,Headphones,Electronics,2,2600,0,UPI,Bengaluru,Returned
+ORD00142,2026-03-22,CUST034,Ishaan Singh,Smartwatch,Electronics,1,6400,5,Debit Card,Bengaluru,Delivered
+ORD00143,2026-02-11,CUST010,Aarav Gupta,Headphones,Electronics,1,2600,0,Cash on Delivery,Jaipur,Cancelled
+ORD00144,2026-02-28,CUST029,Aditi Kumar,Bookshelf,Furniture,2,5800,0,UPI,Pune,Returned
+ORD00145,2026-01-24,CUST044,Meera Rao,Coffee Maker,Home Appliances,2,4200,0,Net Banking,Hyderabad,Delivered
+ORD00146,2026-05-11,CUST014,Sana Sharma,Office Chair,Furniture,3,8100,0,UPI,Hyderabad,Shipped
+ORD00147,2026-04-28,CUST048,Varun Rao,Bookshelf,Furniture,1,5700,5,Debit Card,Bengaluru,Shipped
+ORD00148,2026-02-09,CUST056,Diya Gupta,Air Fryer,Home Appliances,1,6300,15,Net Banking,Kolkata,Cancelled
+ORD00149,2026-07-27,CUST026,Vikram Nair,Air Fryer,Home Appliances,1,7000,0,Debit Card,Chennai,Cancelled
+ORD00150,2026-08-12,CUST030,Vikram Reddy,Desk Lamp,Home Appliances,1,1200,15,Credit Card,Kolkata,Cancelled
